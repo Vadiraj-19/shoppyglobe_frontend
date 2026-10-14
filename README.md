@@ -1,5 +1,3 @@
-Oh, sorry about that! You asked just for a **README.md** file to copy-paste — so here’s a clean, straightforward **README.md** without extra code blocks, just the explanation and instructions for your project:
-
 ---
 
 # React E-Commerce Application
